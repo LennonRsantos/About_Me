@@ -43,9 +43,3 @@ Desenvolvedor focado na criação de aplicações web modernas, responsivas e de
   <img src="https://github-stats-extended.vercel.app/api?username=LennonRsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="Lennon's GitHub Stats" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LennonRsantos&layout=compact&theme=dracula&hide=html,css&hide_border=false" alt="Top Languages" width="49%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=LennonRsantos&theme=dracula&layout=compact" alt="Coding Activity" width="98%" />
-</div>
